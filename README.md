@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Matt Lund
+- 👀 I’m interested in Data Analysis and Visualization
+- 🌱 I’m currently practicing Python and Database Management
+- 📫 Feel free to reach out at mlund2k@gmail.com
